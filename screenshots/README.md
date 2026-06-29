@@ -12,17 +12,16 @@ Chattr is a native Android messaging app that enables real-time communication be
 
 ## 📸 Screenshots
 
-> _Add your screenshots here_
-<img src="screenshots/Login screen 1.jpg" width="250">
-<img src="screenshots/Login screen 2.jpg" width="250">
-<img src="screenshots/Login screen 3.jpg" width="250">
-<img src="screenshots/Home screen.jpg" width="250">
-<img src="screenshots/Search screen.jpg" width="250">
-<img src="screenshots/message screen.jpg" width="250">
-<img src="screenshots/Profile screen.jpg" width="250">
-<img src="screenshots/Profile screen 2.jpg" width="250">
-<img src="screenshots/Image upload screen.jpg" width="250">
-<img src="screenshots/profile picture edit screen.jpg" width="250">
+<img src="screenshots/Login%20screen%201.jpg" width="250">
+<img src="screenshots/Login%20screen%202.jpg" width="250">
+<img src="screenshots/Login%20screen%203.jpg" width="250">
+<img src="screenshots/Home%20screen.jpg" width="250">
+<img src="screenshots/Search%20screen.jpg" width="250">
+<img src="screenshots/message%20screen.jpg" width="250">
+<img src="screenshots/Profile%20screen.jpg" width="250">
+<img src="screenshots/Image%20upload%20screen.jpg" width="250">
+<img src="screenshots/profile%20picture%20edit%20screen.jpg" width="250">
+<img src="screenshots/Profile%20screen%202.jpg" width="250">
 ---
 
 ## ✨ Features
@@ -38,16 +37,14 @@ Chattr is a native Android messaging app that enables real-time communication be
 
 ## 🛠️ Tech Stack
 
-| Layer | Technology |
-|---|---|
-| Language | Java |
-| UI | XML Layouts |
-| Architecture | MVC |
-| Backend / Realtime | Firebase Firestore / Realtime Database |
-| Auth | Firebase Authentication |
-| Build System | Gradle |
-
-> _Update the table above to match your actual dependencies._
+|       Layer        |       Technology        |
+|--------------------|-------------------------|
+|      Language      |          Java           |
+|         UI         |       XML Layouts       |
+|    Architecture    |           MVC           |
+| Backend / Realtime |   Firebase Firestore    |
+|        Auth        | Firebase Authentication |
+|    Build System    |          Gradle         |
 
 ---
 
